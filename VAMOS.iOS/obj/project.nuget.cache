@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NtmDuXnBhU5g2WUW7utP+HJi8jOxC7/13RO1JHld0vp0Xj6dEgH9LEhym/Jk++FxjlyBF6WZLpHCz/xobqlM6g==",
+  "dgSpecHash": "N11LnBfNWWHJf/1wfRcDf3Vhwsjw8AnGAWdX3Rfki/DA1NP3QB0MYwKFMTodlzvBqZkbXweF3TBFHHdJhMvQWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alumno\\Documents\\Inemaps\\VAMOS.iOS\\VAMOS.iOS.csproj",
+  "projectFilePath": "C:\\Users\\alumno\\Documents\\git\\Inemaps\\VAMOS.iOS\\VAMOS.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alumno\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\alumno\\.nuget\\packages\\xamarin.communitytoolkit\\1.2.0\\xamarin.communitytoolkit.1.2.0.nupkg.sha512",

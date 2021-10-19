@@ -7,7 +7,7 @@
 
     <StackLayout Margin="20,20,20,20">
 
-        <Label Text="Inemaps" TextColor="White" FontFamily="Peasone" FontSize="40" HorizontalTextAlignment="Center"></Label>
+        <Label Text="Inemaps" TextColor="White" FontFamily="Peasone" FontSize="50" HorizontalTextAlignment="Center"></Label>
         <Frame CornerRadius="20"
                Padding="0">
             <ListView ItemsSource="{Binding Datos}" HasUnevenRows="True" 
@@ -31,13 +31,15 @@
                                         <ColumnDefinition Width="Auto" />
                                         <ColumnDefinition Width="*" />
                                     </Grid.ColumnDefinitions>
-                                    <Image Grid.RowSpan="2"
+                                    <Frame CornerRadius="50" Padding="0">
+                                        <Image Grid.RowSpan="2"
                                    Source="{Binding Url}"
                                    Aspect="AspectFill"
                                    HeightRequest="60"
                                    WidthRequest="60"
                                    HorizontalOptions="Center"
                                    VerticalOptions="Center"/>
+                                    </Frame>
                                     <Label Grid.Column="1"
                                    Text="{Binding Name}"
                                    FontAttributes="Bold"

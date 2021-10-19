@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zln9kvnsZVwDh/TirY7t1swmDh2wiL9+N0U9GGB2FjtnH9A9iaE+2r4pYo3kF6R5IdtMx9sDYffGnP12IkjRKg==",
+  "dgSpecHash": "nJMnIrGf1rfgw+rbZrFatSpEXYaxitECobeAyStH6W4pN+SMISfOQt/HmyfQ1nfEgMlILll82njdpmFzndnx7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alumno\\Documents\\Inemaps\\VAMOS.Android\\VAMOS.Android.csproj",
+  "projectFilePath": "C:\\Users\\alumno\\Documents\\git\\Inemaps\\VAMOS.Android\\VAMOS.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alumno\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

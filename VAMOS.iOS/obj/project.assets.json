@@ -1116,11 +1116,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alumno\\Documents\\Inemaps\\VAMOS.iOS\\VAMOS.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\alumno\\Documents\\git\\Inemaps\\VAMOS.iOS\\VAMOS.iOS.csproj",
       "projectName": "VAMOS.iOS",
-      "projectPath": "C:\\Users\\alumno\\Documents\\Inemaps\\VAMOS.iOS\\VAMOS.iOS.csproj",
+      "projectPath": "C:\\Users\\alumno\\Documents\\git\\Inemaps\\VAMOS.iOS\\VAMOS.iOS.csproj",
       "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alumno\\Documents\\Inemaps\\VAMOS.iOS\\obj\\",
+      "outputPath": "C:\\Users\\alumno\\Documents\\git\\Inemaps\\VAMOS.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1141,8 +1141,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\alumno\\Documents\\Inemaps\\VAMOS\\VAMOS.csproj": {
-              "projectPath": "C:\\Users\\alumno\\Documents\\Inemaps\\VAMOS\\VAMOS.csproj"
+            "C:\\Users\\alumno\\Documents\\git\\Inemaps\\VAMOS\\VAMOS.csproj": {
+              "projectPath": "C:\\Users\\alumno\\Documents\\git\\Inemaps\\VAMOS\\VAMOS.csproj"
             }
           }
         }

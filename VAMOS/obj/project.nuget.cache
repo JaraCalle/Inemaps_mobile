@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mwHVQ5qeLBFJFfUd28mgz625UWXy1Ime+WVjcpf6YI+u2g9oWqX8//01Ezei1SmhVw5LmYmW/knYgqkyk1CXWw==",
+  "dgSpecHash": "8Szh0R36mfqvJT1YynALPOP8FAIW8/FexxCifQ0D/RD9v3CU2I/oEKb+Uq6liV8UY9kCAmUM4ALj8LroRTGTTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alumno\\Documents\\Inemaps\\VAMOS\\VAMOS.csproj",
+  "projectFilePath": "C:\\Users\\alumno\\Documents\\git\\Inemaps\\VAMOS\\VAMOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alumno\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\alumno\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

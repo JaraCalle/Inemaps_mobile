@@ -92,7 +92,7 @@ namespace VAMOS.src.Tabbed
 
         private void ListView_ItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
-            DisplayAlert(e.SelectedItem.ToString(), "XD", "Ok");
+            DisplayAlert(e.SelectedItem.ToString(), "Rick Rolleado", "Ok");
             
         }
 
