@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:locals="clr-namespace:VAMOS.src.Tabbed"
+             x:Class="VAMOS.src.Tabbed.TabbedPage1" 
+            Title="Tabbed Video"
+            BarTextColor="#E7EBDA" BarBackgroundColor="#141414" SelectedTabColor="#ff6961" UnselectedTabColor="#E7EBDA">
+    <!--Pages can be added as references or inline-->
+    
+    <locals:Page1 Title="Bloques"/>
+    <locals:Page2 Title="Inicio"/>
+    <locals:Page3 Title="Interes"/>
+</TabbedPage>

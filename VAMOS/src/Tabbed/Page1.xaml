@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VAMOS.src.Tabbed.Page1"
+             BackgroundImageSource="Background_index"
+             Icon="school">
+
+    <StackLayout Margin="20,20,20,20">
+
+        <Label Text="Inemaps" TextColor="White" FontFamily="Peasone" FontSize="40" HorizontalTextAlignment="Center"></Label>
+        <Frame CornerRadius="20"
+               Padding="0">
+            <ListView ItemsSource="{Binding Datos}" HasUnevenRows="True" 
+                  ItemSelected="ListView_ItemSelected"
+                  ItemTapped="ListView_ItemTapped"
+                  BackgroundColor="#212121"
+                  >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Frame CornerRadius="20"
+                                   Padding="0"
+                                   BackgroundColor="#454545"
+                                   Margin="0,0,0,10">
+                                <Grid Padding="10">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="*" />
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto" />
+                                        <ColumnDefinition Width="*" />
+                                    </Grid.ColumnDefinitions>
+                                    <Image Grid.RowSpan="2"
+                                   Source="{Binding Url}"
+                                   Aspect="AspectFill"
+                                   HeightRequest="60"
+                                   WidthRequest="60"
+                                   HorizontalOptions="Center"
+                                   VerticalOptions="Center"/>
+                                    <Label Grid.Column="1"
+                                   Text="{Binding Name}"
+                                   FontAttributes="Bold"
+                                   TextColor="#E7EBDA" 
+                                   FontSize="15" 
+                                   FontFamily="Roboto_regular"/>
+                                    <Label Grid.Row="1"
+                                   Grid.Column="1"
+                                   Text="{Binding Ubicacion}"
+                                   VerticalOptions="End"
+                                   TextColor="#E7D3AF" 
+                                   FontSize="14"
+                                   FontFamily="Roboto_light"/>
+                                </Grid>
+                            </Frame>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Frame>
+    </StackLayout>
+    
+</ContentPage>
