@@ -7,7 +7,7 @@
     <ContentPage.Content>
         <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
             <Image Source="https://penamonte.com/wp-content/uploads/2020/12/CONSTRUCCION.png"/>
-            <Label Text="Proximamente un HOME" FontSize="20" FontFamily="Roboto_regular"/>
+            <Label Text="Proximamente un CONTACT US" FontSize="20" FontFamily="Roboto_regular"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
