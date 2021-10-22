@@ -11,6 +11,8 @@ namespace VAMOS
         public string Ubicacion { get; set; }
         public string Url { get; set; }
 
+        public string Descripcion { get; set; }
+
         public override string ToString()
         {
             return Name;

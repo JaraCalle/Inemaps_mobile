@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "QGJO6wJq44TSQ0pvXe0SknnJFCE1GBo6cTbv2sQ3NToyEM6Yxj5P7WZuzh2KoIlI0vcp5FN0/JxTfW8YWPRgwQ==",
+  "dgSpecHash": "hiwBjmpFJ6qOtxYMV+Y1RMDnoBIHTJifg8MtqPzV7Y8zfNYeaWGAgLLprIG5IHuOeJasmXT0mV+N0OgcWVGfMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Juanj\\Documents\\Inemaps\\VAMOS.iOS\\VAMOS.iOS.csproj",
+  "projectFilePath": "C:\\Users\\y2kds\\Documents\\Programacion\\git\\proyecto\\Inemaps\\VAMOS.iOS\\VAMOS.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Juanj\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\Juanj\\.nuget\\packages\\xamarin.communitytoolkit\\1.2.0\\xamarin.communitytoolkit.1.2.0.nupkg.sha512",
+    "C:\\Users\\y2kds\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\y2kds\\.nuget\\packages\\xamarin.communitytoolkit\\1.2.0\\xamarin.communitytoolkit.1.2.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],

@@ -24,6 +24,7 @@ namespace VAMOS.src.Tabbed
             Datos.Add(new Dates
             {
                 Name = "Bloque 1",
+                Descripcion = "Este bloque es una chimba porque si, 1",
                 Ubicacion = "Departamento de Ciencias Naturales",
                 Url = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8fZY6Y1vPk_vncjvu3hojMjX5eQA0cqFRWg&usqp=CAU"
             });
@@ -31,6 +32,7 @@ namespace VAMOS.src.Tabbed
             Datos.Add(new Dates
             {
                 Name = "Bloque 2",
+                Descripcion = "Este bloque es una chimba porque si, 2",
                 Ubicacion = "Departamento de ArtÍstica",
                 Url = "https://images-ext-2.discordapp.net/external/7Rr3SkIEpaTVm3HswrnfJGhdoUewlKHGbxH9VmZNGMo/https/mott.pe/noticias/wp-content/uploads/2018/03/C%25C3%25B3mo-lograr-fotos-con-profundidad-de-campo-usando-cualquier-c%25C3%25A1mara-profundidad2.jpg"
             });
@@ -38,6 +40,7 @@ namespace VAMOS.src.Tabbed
             Datos.Add(new Dates
             {
                 Name = "Bloque 3",
+                Descripcion = "Este bloque es una chimba porque si, 3",
                 Ubicacion = "Departamento de Emprendimiento",
                 Url = "https://images-ext-2.discordapp.net/external/7Rr3SkIEpaTVm3HswrnfJGhdoUewlKHGbxH9VmZNGMo/https/mott.pe/noticias/wp-content/uploads/2018/03/C%25C3%25B3mo-lograr-fotos-con-profundidad-de-campo-usando-cualquier-c%25C3%25A1mara-profundidad2.jpg"
             });
@@ -45,6 +48,7 @@ namespace VAMOS.src.Tabbed
             Datos.Add(new Dates
             {
                 Name = "Bloque 4",
+                Descripcion = "Este bloque es una chimba porque si, 4",
                 Ubicacion = "Departamento de Industriales",
                 Url = "https://images-ext-2.discordapp.net/external/7Rr3SkIEpaTVm3HswrnfJGhdoUewlKHGbxH9VmZNGMo/https/mott.pe/noticias/wp-content/uploads/2018/03/C%25C3%25B3mo-lograr-fotos-con-profundidad-de-campo-usando-cualquier-c%25C3%25A1mara-profundidad2.jpg"
             });
@@ -52,6 +56,7 @@ namespace VAMOS.src.Tabbed
             Datos.Add(new Dates
             {
                 Name = "Bloque 5",
+                Descripcion = "Este bloque es una chimba porque si, 5",
                 Ubicacion = "Departamento de Matemáticas",
                 Url = "https://images-ext-2.discordapp.net/external/7Rr3SkIEpaTVm3HswrnfJGhdoUewlKHGbxH9VmZNGMo/https/mott.pe/noticias/wp-content/uploads/2018/03/C%25C3%25B3mo-lograr-fotos-con-profundidad-de-campo-usando-cualquier-c%25C3%25A1mara-profundidad2.jpg"
             });
@@ -59,6 +64,7 @@ namespace VAMOS.src.Tabbed
             Datos.Add(new Dates
             {
                 Name = "Bloque 6",
+                Descripcion = "Este bloque es una chimba porque si, 6",
                 Ubicacion = "Departamento de Español",
                 Url = "https://images-ext-2.discordapp.net/external/7Rr3SkIEpaTVm3HswrnfJGhdoUewlKHGbxH9VmZNGMo/https/mott.pe/noticias/wp-content/uploads/2018/03/C%25C3%25B3mo-lograr-fotos-con-profundidad-de-campo-usando-cualquier-c%25C3%25A1mara-profundidad2.jpg"
             });
@@ -66,6 +72,7 @@ namespace VAMOS.src.Tabbed
             Datos.Add(new Dates
             {
                 Name = "Bloque 7",
+                Descripcion = "Este bloque es una chimba porque si, 7",
                 Ubicacion = "Departamento de Religion",
                 Url = "https://images-ext-2.discordapp.net/external/7Rr3SkIEpaTVm3HswrnfJGhdoUewlKHGbxH9VmZNGMo/https/mott.pe/noticias/wp-content/uploads/2018/03/C%25C3%25B3mo-lograr-fotos-con-profundidad-de-campo-usando-cualquier-c%25C3%25A1mara-profundidad2.jpg"
             });
@@ -73,6 +80,7 @@ namespace VAMOS.src.Tabbed
             Datos.Add(new Dates
             {
                 Name = "Bloque 8",
+                Descripcion = "Este bloque es una chimba porque si, 8",
                 Ubicacion = "La Biblioteca",
                 Url = "https://images-ext-2.discordapp.net/external/7Rr3SkIEpaTVm3HswrnfJGhdoUewlKHGbxH9VmZNGMo/https/mott.pe/noticias/wp-content/uploads/2018/03/C%25C3%25B3mo-lograr-fotos-con-profundidad-de-campo-usando-cualquier-c%25C3%25A1mara-profundidad2.jpg"
             });
@@ -80,6 +88,7 @@ namespace VAMOS.src.Tabbed
             Datos.Add(new Dates
             {
                 Name = "Bloque 9",
+                Descripcion = "Este bloque es una chimba porque si, 9",
                 Ubicacion = "Canchas",
                 Url = "https://images-ext-2.discordapp.net/external/7Rr3SkIEpaTVm3HswrnfJGhdoUewlKHGbxH9VmZNGMo/https/mott.pe/noticias/wp-content/uploads/2018/03/C%25C3%25B3mo-lograr-fotos-con-profundidad-de-campo-usando-cualquier-c%25C3%25A1mara-profundidad2.jpg"
             });
@@ -89,16 +98,21 @@ namespace VAMOS.src.Tabbed
 
 
         
+        
 
         private void ListView_ItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
-            DisplayAlert(e.SelectedItem.ToString(), "Rick Rolleado", "Ok");
-            
+
         }
 
         private void ListView_ItemTapped(object sender, ItemTappedEventArgs e)
         {
+            if (e.Item == null)
+            {
+                return;
+            }
 
+            Navigation.PushModalAsync(new DetailPage(e.Item as Dates));
         }
     }
 }
