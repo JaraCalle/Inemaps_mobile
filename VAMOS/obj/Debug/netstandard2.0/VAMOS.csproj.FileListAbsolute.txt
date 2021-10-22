@@ -114,3 +114,4 @@ C:\Users\y2kds\Documents\Programacion\git\proyecto\Inemaps\VAMOS\obj\Debug\netst
 C:\Users\y2kds\Documents\Programacion\git\proyecto\Inemaps\VAMOS\obj\Debug\netstandard2.0\VAMOS.pdb
 C:\Users\y2kds\Documents\Programacion\git\proyecto\Inemaps\VAMOS\obj\Debug\netstandard2.0\src\Tabbed\DetailPage.xaml.g.cs
 C:\Users\Juanj\Documents\Inemaps\VAMOS\obj\Debug\netstandard2.0\src\Tabbed\DetailPage.xaml.g.cs
+C:\Users\alumno\Documents\Inemaps\VAMOS\obj\Debug\netstandard2.0\src\Tabbed\DetailPage.xaml.g.cs

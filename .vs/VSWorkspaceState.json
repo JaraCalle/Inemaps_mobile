@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\VAMOS"
+    "\\VAMOS",
+    "\\VAMOS\\src",
+    "\\VAMOS\\src\\Tabbed"
   ],
-  "SelectedNode": "\\VAMOS\\App.xaml",
+  "SelectedNode": "\\VAMOS\\src\\Tabbed\\Page1.xaml",
   "PreviewInSolutionExplorer": false
 }
