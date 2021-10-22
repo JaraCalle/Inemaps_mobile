@@ -1,6 +1,6 @@
-Bro...
-Añado la pagina con detalles de cada pag
-la descripcion está en la "pag1.cs"
-para editar la pag está en la pagina xaml nueva de detalles
+Vea..
+Editamos la pagina de cada bloque 
+para que fueran independientes las fotos
+y las descripciones de cada una.
 
-To joya
+Tenga buena tarde.
