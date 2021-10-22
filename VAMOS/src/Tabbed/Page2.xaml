@@ -6,9 +6,41 @@
              BackgroundImageSource="Background_index"
              >
     <ContentPage.Content>
-        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
-            <Image Source="https://penamonte.com/wp-content/uploads/2020/12/CONSTRUCCION.png"/>
-            <Label Text="Proximamente un CONTACT US" FontSize="20" FontFamily="Roboto_regular"/>
+        <StackLayout HorizontalOptions="Center" 
+                     VerticalOptions="Center"
+                     >
+
+            <Image Source="Logo_dev.png"/>
+            <Label Text="Contactanos" 
+                   HorizontalTextAlignment="Center"
+                   FontSize="23" 
+                   FontFamily="Roboto_regular"
+                   TextColor="#E7EBDA" 
+                   />
+            <Label Text="juan.garcia@inemjose.edu.co" 
+                   HorizontalTextAlignment="Center"
+                   FontSize="20" 
+                   FontFamily="Roboto_light"
+                   TextColor="#E7D3AF" 
+                   />
+            <Label Text="juan.jaracalle@inemjose.edu.co" 
+                   HorizontalTextAlignment="Center"
+                   FontSize="20" 
+                   FontFamily="Roboto_light"
+                   TextColor="#E7D3AF" 
+                   />
+            <Label Text="jimena.munozgomez@inemjose.edu.co" 
+                   HorizontalTextAlignment="Center"
+                   FontSize="20" 
+                   FontFamily="Roboto_light"
+                   TextColor="#E7D3AF" 
+                   />
+            <Label Text="nicky.florezbustamante@inemjose.edu.co" 
+                   HorizontalTextAlignment="Center"
+                   FontSize="20" 
+                   FontFamily="Roboto_light"
+                   TextColor="#E7D3AF" 
+                   />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

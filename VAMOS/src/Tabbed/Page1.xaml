@@ -14,6 +14,7 @@
                   ItemSelected="ListView_ItemSelected"
                   ItemTapped="ListView_ItemTapped"
                   BackgroundColor="#212121"
+                   SeparatorVisibility="None"
                   >
                 <ListView.ItemTemplate>
                     <DataTemplate>

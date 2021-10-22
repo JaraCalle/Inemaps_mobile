@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\y2kds\\Documents\\Programacion\\git\\proyecto\\Inemaps\\VAMOS.iOS\\VAMOS.iOS.csproj": {}
+    "C:\\Users\\Juanj\\Documents\\Inemaps\\VAMOS.iOS\\VAMOS.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\y2kds\\Documents\\Programacion\\git\\proyecto\\Inemaps\\VAMOS.iOS\\VAMOS.iOS.csproj": {
+    "C:\\Users\\Juanj\\Documents\\Inemaps\\VAMOS.iOS\\VAMOS.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\y2kds\\Documents\\Programacion\\git\\proyecto\\Inemaps\\VAMOS.iOS\\VAMOS.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Juanj\\Documents\\Inemaps\\VAMOS.iOS\\VAMOS.iOS.csproj",
         "projectName": "VAMOS.iOS",
-        "projectPath": "C:\\Users\\y2kds\\Documents\\Programacion\\git\\proyecto\\Inemaps\\VAMOS.iOS\\VAMOS.iOS.csproj",
-        "packagesPath": "C:\\Users\\y2kds\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\y2kds\\Documents\\Programacion\\git\\proyecto\\Inemaps\\VAMOS.iOS\\obj\\",
+        "projectPath": "C:\\Users\\Juanj\\Documents\\Inemaps\\VAMOS.iOS\\VAMOS.iOS.csproj",
+        "packagesPath": "C:\\Users\\Juanj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juanj\\Documents\\Inemaps\\VAMOS.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\y2kds\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Juanj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +34,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\y2kds\\Documents\\Programacion\\git\\proyecto\\Inemaps\\VAMOS\\VAMOS.csproj": {
-                "projectPath": "C:\\Users\\y2kds\\Documents\\Programacion\\git\\proyecto\\Inemaps\\VAMOS\\VAMOS.csproj"
+              "C:\\Users\\Juanj\\Documents\\Inemaps\\VAMOS\\VAMOS.csproj": {
+                "projectPath": "C:\\Users\\Juanj\\Documents\\Inemaps\\VAMOS\\VAMOS.csproj"
               }
             }
           }
@@ -69,20 +71,22 @@
         }
       }
     },
-    "C:\\Users\\y2kds\\Documents\\Programacion\\git\\proyecto\\Inemaps\\VAMOS\\VAMOS.csproj": {
+    "C:\\Users\\Juanj\\Documents\\Inemaps\\VAMOS\\VAMOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\y2kds\\Documents\\Programacion\\git\\proyecto\\Inemaps\\VAMOS\\VAMOS.csproj",
+        "projectUniqueName": "C:\\Users\\Juanj\\Documents\\Inemaps\\VAMOS\\VAMOS.csproj",
         "projectName": "VAMOS",
-        "projectPath": "C:\\Users\\y2kds\\Documents\\Programacion\\git\\proyecto\\Inemaps\\VAMOS\\VAMOS.csproj",
-        "packagesPath": "C:\\Users\\y2kds\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\y2kds\\Documents\\Programacion\\git\\proyecto\\Inemaps\\VAMOS\\obj\\",
+        "projectPath": "C:\\Users\\Juanj\\Documents\\Inemaps\\VAMOS\\VAMOS.csproj",
+        "packagesPath": "C:\\Users\\Juanj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juanj\\Documents\\Inemaps\\VAMOS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\y2kds\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Juanj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

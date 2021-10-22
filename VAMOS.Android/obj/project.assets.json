@@ -2204,24 +2204,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\y2kds\\.nuget\\packages\\": {},
+    "C:\\Users\\Juanj\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\y2kds\\Documents\\Programacion\\git\\proyecto\\Inemaps\\VAMOS.Android\\VAMOS.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Juanj\\Documents\\Inemaps\\VAMOS.Android\\VAMOS.Android.csproj",
       "projectName": "VAMOS.Android",
-      "projectPath": "C:\\Users\\y2kds\\Documents\\Programacion\\git\\proyecto\\Inemaps\\VAMOS.Android\\VAMOS.Android.csproj",
-      "packagesPath": "C:\\Users\\y2kds\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\y2kds\\Documents\\Programacion\\git\\proyecto\\Inemaps\\VAMOS.Android\\obj\\",
+      "projectPath": "C:\\Users\\Juanj\\Documents\\Inemaps\\VAMOS.Android\\VAMOS.Android.csproj",
+      "packagesPath": "C:\\Users\\Juanj\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Juanj\\Documents\\Inemaps\\VAMOS.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\y2kds\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Juanj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -2235,8 +2238,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\y2kds\\Documents\\Programacion\\git\\proyecto\\Inemaps\\VAMOS\\VAMOS.csproj": {
-              "projectPath": "C:\\Users\\y2kds\\Documents\\Programacion\\git\\proyecto\\Inemaps\\VAMOS\\VAMOS.csproj"
+            "C:\\Users\\Juanj\\Documents\\Inemaps\\VAMOS\\VAMOS.csproj": {
+              "projectPath": "C:\\Users\\Juanj\\Documents\\Inemaps\\VAMOS\\VAMOS.csproj"
             }
           }
         }
