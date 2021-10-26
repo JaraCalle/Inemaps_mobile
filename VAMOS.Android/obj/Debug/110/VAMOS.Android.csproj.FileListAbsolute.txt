@@ -3627,3 +3627,4 @@ C:\Users\alumno\Documents\Inemaps\VAMOS.Android\obj\Debug\110\stamp\_GenerateJav
 C:\Users\alumno\Documents\Inemaps\VAMOS.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\alumno\Documents\Inemaps\VAMOS.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\alumno\Documents\Inemaps\VAMOS.Android\obj\Debug\110\res\drawable\paisaje_natural.jpg
+C:\Users\Juanj\Documents\Inemaps\VAMOS.Android\obj\Debug\110\res\drawable\paisaje_natural.jpg

@@ -13,7 +13,6 @@
                    HorizontalOptions="Center" 
                    Margin="0,15,0,0"/>
             <Frame Padding="0"
-                   BorderColor="Red"
                    CornerRadius="10"
                    Margin="30,10,30,10"
                    >
@@ -22,11 +21,17 @@
             <Label x:Name="LabelName"
                    FontSize="Large"
                    HorizontalOptions="Center"
-                   VerticalOptions="Center" />
+                   VerticalOptions="Center"
+                   TextColor="#E7EBDA" 
+                   FontFamily="Roboto_regular"
+                   />
             <Label x:Name="LabelPrice"
                    FontSize="Large"
                    HorizontalOptions="Center"
-                   VerticalOptions="Center"/>
+                   VerticalOptions="Center"
+                   TextColor="#E7D3AF" 
+                   FontFamily="Roboto_light"
+                   />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

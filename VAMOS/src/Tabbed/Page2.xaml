@@ -17,7 +17,7 @@
                    FontFamily="Roboto_regular"
                    TextColor="#E7EBDA" 
                    />
-            <Label Text="juan.garcia@inemjose.edu.co" 
+            <Label Text="nickyflorez@inemjose.edu.co" 
                    HorizontalTextAlignment="Center"
                    FontSize="20" 
                    FontFamily="Roboto_light"
@@ -29,13 +29,13 @@
                    FontFamily="Roboto_light"
                    TextColor="#E7D3AF" 
                    />
-            <Label Text="jimena.munozgomez@inemjose.edu.co" 
+            <Label Text="juan.garcialarrea@inemjose.edu.co" 
                    HorizontalTextAlignment="Center"
                    FontSize="20" 
                    FontFamily="Roboto_light"
                    TextColor="#E7D3AF" 
                    />
-            <Label Text="nicky.florezbustamante@inemjose.edu.co" 
+            <Label Text="jimena.munozgomez@inemjose.edu.co" 
                    HorizontalTextAlignment="Center"
                    FontSize="20" 
                    FontFamily="Roboto_light"
