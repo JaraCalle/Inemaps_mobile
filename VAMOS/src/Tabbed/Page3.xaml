@@ -8,7 +8,7 @@
     <ContentPage.Content>
         <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
             <Image Source="https://penamonte.com/wp-content/uploads/2020/12/CONSTRUCCION.png"/>
-            <Label Text="Proximamente los PUNTOS DE INTERES" FontSize="20" FontFamily="Roboto_regular"/>
+            <Label TextColor="#fff" Text="Proximamente los PUNTOS DE INTERES" FontSize="20" FontFamily="Roboto_regular"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

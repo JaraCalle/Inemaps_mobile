@@ -818,23 +818,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\y2kds\\.nuget\\packages\\": {},
+    "C:\\Users\\Estudiante\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\y2kds\\Documents\\Programacion\\proyecto\\Inemaps\\VAMOS\\VAMOS.csproj",
+      "projectUniqueName": "C:\\Users\\Estudiante\\Documents\\proyecto\\git\\Inemaps\\VAMOS\\VAMOS.csproj",
       "projectName": "VAMOS",
-      "projectPath": "C:\\Users\\y2kds\\Documents\\Programacion\\proyecto\\Inemaps\\VAMOS\\VAMOS.csproj",
-      "packagesPath": "C:\\Users\\y2kds\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\y2kds\\Documents\\Programacion\\proyecto\\Inemaps\\VAMOS\\obj\\",
+      "projectPath": "C:\\Users\\Estudiante\\Documents\\proyecto\\git\\Inemaps\\VAMOS\\VAMOS.csproj",
+      "packagesPath": "C:\\Users\\Estudiante\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Estudiante\\Documents\\proyecto\\git\\Inemaps\\VAMOS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\y2kds\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Estudiante\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
