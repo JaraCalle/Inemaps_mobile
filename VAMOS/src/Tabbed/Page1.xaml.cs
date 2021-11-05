@@ -55,15 +55,23 @@ namespace VAMOS.src.Tabbed
 
             Datos.Add(new Dates
             {
-                Name = "Bloque 5",
+                Name = "Bloque 5-A",
                 Descripcion = "Este bloque es una chimba porque si, 5",
+                Ubicacion = "Departamento de Matemáticas",
+                Url = "paisaje_natural"
+            });
+
+            Datos.Add(new Dates 
+            {
+                Name = "Bloque 5-B",
+                Descripcion = "",
                 Ubicacion = "Departamento de Matemáticas",
                 Url = "paisaje_natural"
             });
 
             Datos.Add(new Dates
             {
-                Name = "Bloque 6",
+                Name = "Bloque 6-A",
                 Descripcion = "Este bloque es una chimba porque si, 6",
                 Ubicacion = "Departamento de Español",
                 Url = "paisaje_natural"
@@ -71,7 +79,23 @@ namespace VAMOS.src.Tabbed
 
             Datos.Add(new Dates
             {
-                Name = "Bloque 7",
+                Name = "Bloque 6-B",
+                Descripcion = "Este bloque es una chimba porque si, 6",
+                Ubicacion = "Departamento de Español",
+                Url = "paisaje_natural"
+            });
+
+            Datos.Add(new Dates
+            {
+                Name = "Bloque 7-A",
+                Descripcion = "Este bloque es una chimba porque si, 7",
+                Ubicacion = "Departamento de Religion",
+                Url = "paisaje_natural"
+            });
+
+            Datos.Add(new Dates
+            {
+                Name = "Bloque 7-B",
                 Descripcion = "Este bloque es una chimba porque si, 7",
                 Ubicacion = "Departamento de Religion",
                 Url = "paisaje_natural"
