@@ -24,7 +24,7 @@ namespace VAMOS.src.Tabbed
             Datos.Add(new Dates
             {
                 Name = "Bloque 1",
-                Descripcion = "Este bloque es una chimba porque si, 1",
+                Descripcion = "Bloque de ciencias, donde puedes encontrar dos laboratios",
                 Ubicacion = "Departamento de Ciencias Naturales",
                 Url = "paisaje_natural"
             });
@@ -32,7 +32,7 @@ namespace VAMOS.src.Tabbed
             Datos.Add(new Dates
             {
                 Name = "Bloque 2",
-                Descripcion = "Este bloque es una chimba porque si, 2",
+                Descripcion = "Bloque de artÍstica, donde puedes encontrar aulas e instrumentos",
                 Ubicacion = "Departamento de ArtÍstica",
                 Url = "paisaje_natural"
             });
@@ -40,7 +40,7 @@ namespace VAMOS.src.Tabbed
             Datos.Add(new Dates
             {
                 Name = "Bloque 3",
-                Descripcion = "Este bloque es una chimba porque si, 3",
+                Descripcion = "Bloque de comercial, donde puedes encontrar nada XD",
                 Ubicacion = "Departamento de Emprendimiento",
                 Url = "paisaje_natural"
             });
@@ -48,7 +48,7 @@ namespace VAMOS.src.Tabbed
             Datos.Add(new Dates
             {
                 Name = "Bloque 4",
-                Descripcion = "Este bloque es una chimba porque si, 4",
+                Descripcion = "Bloque de industriales, donde puedes encontrar talleres de carpintería y de electronica",
                 Ubicacion = "Departamento de Industriales",
                 Url = "paisaje_natural"
             });
